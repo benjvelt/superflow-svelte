@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		Highlight this text to test out Superflow
 	</h1>
 
 	<h2>
